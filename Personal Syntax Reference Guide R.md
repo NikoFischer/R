@@ -1,6 +1,7 @@
 ﻿# Personal Syntax Reference Guide R
 
 **COTTON**, Richard. **Learning R**. Sebastopol, CA: O'Reilly, 2013.
+
 **ISBN**: 9781449357108
 
 ## Preface
