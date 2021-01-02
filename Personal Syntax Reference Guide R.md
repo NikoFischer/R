@@ -59,7 +59,7 @@ The `help` and `help.search` functions do the same things, but with them you alw
 
 ## Model Functions
 
-Most functions have examples that you can run to get a better idea of how they work; use the `demo `and` example`functions for them.
+Most functions have examples that you can run to get a better idea of how they work; use the `demo` and `example` functions for them.
 
 ### # Demo Function, Model 01
 
